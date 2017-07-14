@@ -1,0 +1,36 @@
+html {
+  font-family: Verdana;
+  background-color: Black;
+  text-align: center;
+  color: White;
+}
+h1 {
+  font-size: 50px;
+  color: White;
+  text-align: center;
+  font-weight: bold;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.video {
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold, 300;
+  font-size: 42px;
+}
+
+#caption {
+  font-size: 21px;
+  color: gray;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
+}
